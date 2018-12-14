@@ -1,4 +1,4 @@
-﻿# Konkreter Vorschlag der AG Regeln
+﻿# Verhaltensregeln im CCC München
 
 ## Vorwort
 
