@@ -148,7 +148,7 @@ der folgenden Regelungen:
 ## Teil 3:
 
 Fehler dürfen *selten* und *fahrlässig* passieren. Fortgesetztes oder 
-vorsetzliches Fehlverhalten wird hingegen nicht toleriert. Dazu hat der Club 
+vorsätzliches Fehlverhalten wird hingegen nicht toleriert. Dazu hat der Club 
 folgende Möglichkeiten dieses zu sanktionieren:
 
   * nicht-öffentliche Verwarnung durch ein Mitglied des Vorstands
