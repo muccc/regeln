@@ -182,6 +182,6 @@ folgende Möglichkeiten dieses zu sanktionieren:
   Verfolgung bleibt von diesen Regelungen unberührt.
   - Der Vorstand definiert sich durch die aktuell gültige Satzung.
   - Das Plenum definiert sich durch die AG Plenum gerade neu. [TODO!]
-  - Keyholder sind alle Mitglieder des MuCCC, die eine Schließberechtigung 
-  für die Räume des Clubs besitzen
+  - Keyholder sind alle Mitglieder des MuCCC, die eine bestätigte,
+  dauerhafte Schließberechtigung für die Räume des Clubs besitzen.
   
