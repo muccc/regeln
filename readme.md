@@ -113,6 +113,8 @@ der folgenden Regelungen:
   - Nach der Nutzung von Räumen und Clubinventar ist beides in einem nutzbaren
   Zustand zu hinterlassen. Faustregel: Hinterlasse den Club in einem besseren
   Zustand, als du ihn vorgefunden hast.
+  
+  - Gäste sind für einen Tag sind okay, aber der Club ist keine Wohnung oder Hostel.
 
 ### Hauptraum:
 
