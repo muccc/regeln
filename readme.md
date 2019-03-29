@@ -1,4 +1,4 @@
-﻿# Verhaltensregeln im CCC München
+# Verhaltensregeln im CCC München
 
 ## Vorwort
 
@@ -29,7 +29,7 @@ verständlich werden, liefern wir hier Interpretationshilfen:
     Konfliktpotential, versuche dieses aus der Welt zu schaffen, bevor es
     eskaliert. Sprich mit den Leuten, um deine Intentionen für alle transparent 
     zu machen.
-    
+
     - Der private Bereich anderer ist ein Tabu, solange du nicht eingeladen 
     wurdest, an diesem teilzunehmen. Körperliche und verbale Eingriffe in die 
     Privatsphäre sind alles andere als "excellent". Bitte beachte auch, dass
@@ -38,7 +38,7 @@ verständlich werden, liefern wir hier Interpretationshilfen:
     Umkehrschluss aber auch, dass du, falls jemand deine Grenzen überschreitet,
     darauf hinweisen musst, dass hier deine Grenzen sind. Sei also auch offen 
     für andere, die dir ihre Grenzen kommunizieren.
-    
+
     - Da jeder den Club in einem nutzbaren Zustand vorfinden möchte, ist es
     angebracht, benutzte Räume wieder so zu hinterlassen, dass jemand anderes
     wieder "Spaß am Gerät" haben kann. Also die Küche nutzen kann, das Werkzeug
@@ -54,7 +54,7 @@ verständlich werden, liefern wir hier Interpretationshilfen:
     bedeuten, dass einigen besondere Privilegien eingeräumt werden. Sofern 
     Ideen und Ziele nicht im Widerspruch mit den unseren stehen, 
     unterstützen wir die Ausprägungen mit dem größten Förderbedarf.
-    
+
     - So gerne wir auch sehen würden, dass sich alle Mitglieder an dieses
     Regelwerk halten: Eine selbsternannte "Regelpolizei" ist sicherlich nicht im
     Sinne dieses Credos. Ein "überwachen" der Regeln oder eine Beschwerde über
@@ -74,24 +74,24 @@ verständlich werden, liefern wir hier Interpretationshilfen:
     unseren politischen Grundsätzen und Regeln für das Zusammenleben anfreunden
     kann, dem legen wir hier nahe, wieder zu gehen. "All creatures are welcome" 
     heißt nicht, dass auch alle bleiben müssen. 
-    
+
     - "All creatures" bezieht sich unserer Meinung nach auf die Divergenz in den
     in der Hackerethik genannten "üblichen Kriteren": *Beurteile einen Hacker
     nach dem, was er tut, und nicht nach üblichen Kriterien wie Aussehen, Alter,
     Rasse, Geschlecht oder gesellschaftlicher Stellung.* Das schließt explizit
     nicht mit ein: mangelnde Hygiene, unangebrachte soziale Umgangsformen, 
     Belästigung und ähnliches.
-    
+
     - Explizit NOT WELCOME sind hingegen Kreaturen mit menschenverachtender
     Gesinnung.
-    
+
 ### Anmerkungen zu Teil 1:
 
   - Es handelt sich *nur* um eine Interpretationshilfe. Auch die Beispiele sind
   nicht konkret auf alles und jeden direkt anwendbar. Es sollte jedoch ein
   Kompass für jeden sein, einzuordnen wie weit die eigene Interpretation vom
   gemeinsamen Konsens abweicht. 
-  
+
   - Wenn in diesem Teil neue Leitsprüche aufgenommen werden, sollten sie auch
   gleich um neue Beispiele und Interpretationshilfen ergänzt werden.
 
@@ -117,7 +117,7 @@ der folgenden Regelungen:
 ### Hauptraum:
 
   - Achte nach 22 Uhr auf eine nachbarschaftsverträgliche Lautstärke.
-  
+
   - Pizzakartons bitte gleich in die Mülltonnen im Hof.
 
 ### Küche:
@@ -128,23 +128,22 @@ der folgenden Regelungen:
   verantwortlich, dass das auch passiert.
 
 ### Labor:
-  
+
   - Achte am Ende darauf, dass alle Elektrogeräte ausgeschaltet sind. Erst
   anschließend den Hauptschalter deaktivieren!
-  
+
   - Lasercutter und 3D-Drucker sind komplizierter und fragiler als du denkst.
   Daher bitte nur nach Einweisung benutzen. Siehe dazu auch die entsprechenden
   Seiten im Wiki.
-  
+
   - Das Labor ist kein Lagerplatz für private Kisten. Diese gehören ins
   Zwischenlager oder in die privaten Schließfächer.
-  
 
 ### Anmerkungen zu Teil 2:
   - Die oben genannten Regeln wurden ohne Begründungen angegeben, um die
   Übersichtlichkeit zu gewährleisten. Falls dir der Sinn hinter einigen Regeln
   nicht klar ist, bitte lieber jemanden fragen, statt die Regeln zu missachten.
-  
+
 ## Teil 3:
 
 Fehler dürfen *selten* und *fahrlässig* passieren. Fortgesetztes oder 
@@ -169,7 +168,7 @@ folgende Möglichkeiten dieses zu sanktionieren:
   * Dauerhaftes Clubraumverbot durch einen Plenumsentscheid in 2/3-Mehrheit
   * Ausschluss aus dem Verein durch den Vorstand nach Empfehlung durch das 
   Plenum in 2/3-Mehrheit
-  
+
 ### Anmerkungen zu Teil 3:
   - Die obige Liste ist in aufsteigender Reihenfolge der Härte sortiert
   - Für ein ähnliches Fehlverhalten eines Mitglieds soll nicht zweimal die 
@@ -184,4 +183,3 @@ folgende Möglichkeiten dieses zu sanktionieren:
   - Das Plenum definiert sich durch die AG Plenum gerade neu. [TODO!]
   - Keyholder sind alle Mitglieder des MuCCC, die eine bestätigte,
   dauerhafte Schließberechtigung für die Räume des Clubs besitzen.
-  
