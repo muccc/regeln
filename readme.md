@@ -8,11 +8,12 @@ sondern kann als "work in progress" betrachtet werden. Unstimmigkeiten und
 Unzulänglichkeiten können durch Plenumsentscheide zu Nachbesserungen und
 Erweiterungen führen.
 
-Es gliedert sich in drei Teile. Das zwischenmenschliche Verhalten wird dabei
+Es gliedert sich in vier Teile. Das zwischenmenschliche Verhalten wird dabei
 schwerpunktmäßig im ersten Teil thematisiert; dem Umgang mit den Clubräumen und
-dem Clubinventar ist der zweite Abschnitt gewidmet; und schließlich beschäftigt 
-sich der letzte Teil sich mit dem Umgang des Clubs mit Mitgliedern, die sich im 
-Sinne der ersten beiden Abschnitte falsch verhalten.
+dem Clubinventar ist der zweite Abschnitt gewidmet; der dritte Teil behandelt
+den Umgang des Clubs mit Mitgliedern, die sich im Sinne der ersten beiden 
+Abschnitte falsch verhalten. Der vierte Teil beschäftigt definiert Regelungen
+zum Plenum.
 
 Jeder Teil wurde mit einer eigenen Einführung versehen und schließt mit weiteren
 Anmerkungen ab.
@@ -180,6 +181,25 @@ folgende Möglichkeiten dieses zu sanktionieren:
   - Vereinsrechtliche Schritte oder strafrechtliche / zivilrechtliche 
   Verfolgung bleibt von diesen Regelungen unberührt.
   - Der Vorstand definiert sich durch die aktuell gültige Satzung.
-  - Das Plenum definiert sich durch die AG Plenum gerade neu. [TODO!]
   - Keyholder sind alle Mitglieder des MuCCC, die eine bestätigte,
   dauerhafte Schließberechtigung für die Räume des Clubs besitzen.
+
+## Teil 4:
+
+Die folgenden Regelungen wurden jeweils auf Plenen verabschiedet und Regeln
+die Plenen selbst.
+
+  - Regelmäßige Plenen finden jeden vierten Montag des Monats statt. Falls
+  zu viele Themen anstehen, sollte gleich im Anschluss ein Auffangplenum
+  angekündigt werden. Nach Möglichkeit soll dieses am zweiten Montag des 
+  darauffolgenden Monats stattfinden.
+  - Weitere Plenen können in akuten Fällen mit mindestens 72h Vorlauf 
+  einberufen werden.
+  - Plenumspunkte sollen immer min. 72h vor Beginn des Plenums auf der 
+  Plenumswikiseite eingetragen sein.
+  - Abstimmvorschlaege muessen immer min. 72h vor Beginn des Plenums auf der 
+  Plenumswikiseite eingetragen sein.
+
+### Anmerkungen zu Teil 4:
+  - Dieser Teil befindet sich in einer sehr frühen Entwurfsfassung und sollte
+  in den kommenden Monaten stetig erweitert werden.
