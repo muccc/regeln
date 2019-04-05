@@ -186,7 +186,7 @@ folgende Möglichkeiten dieses zu sanktionieren:
 
 ## Teil 4:
 
-Die folgenden Regelungen wurden jeweils auf Plenen verabschiedet und Regeln
+Die folgenden Regelungen wurden jeweils auf Plenen verabschiedet und regeln
 die Plenen selbst.
 
   - Regelmäßige Plenen finden jeden vierten Montag des Monats statt. Falls
@@ -195,9 +195,9 @@ die Plenen selbst.
   darauffolgenden Monats stattfinden.
   - Weitere Plenen können in akuten Fällen mit mindestens 72h Vorlauf 
   einberufen werden.
-  - Plenumspunkte sollen immer min. 72h vor Beginn des Plenums auf der 
+  - Plenumspunkte sollen immer mind. 72h vor Beginn des Plenums auf der 
   Plenumswikiseite eingetragen sein.
-  - Abstimmvorschlaege muessen immer min. 72h vor Beginn des Plenums auf der 
+  - Abstimmvorschläge muessen immer mind. 72h vor Beginn des Plenums auf der 
   Plenumswikiseite eingetragen sein.
 
 ### Anmerkungen zu Teil 4:
