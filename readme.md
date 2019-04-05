@@ -114,7 +114,7 @@ der folgenden Regelungen:
   Zustand zu hinterlassen. Faustregel: Hinterlasse den Club in einem besseren
   Zustand, als du ihn vorgefunden hast.
   
-  - Gäste sind für einen Tag sind okay, aber der Club ist keine Wohnung oder Hostel.
+  - Gäste für einen Tag sind okay, aber der Club ist keine Wohnung oder Hostel.
 
 ### Hauptraum:
 
