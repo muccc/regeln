@@ -12,7 +12,7 @@ Es gliedert sich in vier Teile. Das zwischenmenschliche Verhalten wird dabei
 schwerpunktmäßig im ersten Teil thematisiert; dem Umgang mit den Clubräumen und
 dem Clubinventar ist der zweite Abschnitt gewidmet; der dritte Teil behandelt
 den Umgang des Clubs mit Mitgliedern, die sich im Sinne der ersten beiden 
-Abschnitte falsch verhalten. Der vierte Teil beschäftigt definiert Regelungen
+Abschnitte falsch verhalten. Der vierte Teil definiert Regelungen
 zum Plenum.
 
 Jeder Teil wurde mit einer eigenen Einführung versehen und schließt mit weiteren
