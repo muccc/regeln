@@ -189,9 +189,9 @@ folgende Möglichkeiten dieses zu sanktionieren:
 Die folgenden Regelungen wurden jeweils auf Plenen verabschiedet und regeln
 die Plenen selbst.
 
-  - Regelmäßige Plenen finden jeden vierten Montag des Monats statt. Falls
+  - Regelmäßige Plenen finden jeden dritten Montag des Monats statt. Falls
   zu viele Themen anstehen, sollte gleich im Anschluss ein Auffangplenum
-  angekündigt werden. Nach Möglichkeit soll dieses am zweiten Montag des 
+  angekündigt werden. Nach Möglichkeit soll dieses am ersten Montag des 
   darauffolgenden Monats stattfinden.
   - Weitere Plenen können in akuten Fällen mit mindestens 72h Vorlauf 
   einberufen werden.
