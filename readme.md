@@ -140,6 +140,15 @@ der folgenden Regelungen:
   - Das Labor ist kein Lagerplatz für private Kisten. Diese gehören ins
   Zwischenlager oder in die privaten Schließfächer.
 
+### Lounge:
+
+  - Die Lounge ist der einzige Bereich innerhalb der Clubräume in dem Rauchen
+  gestattet ist.
+
+### Studio:
+
+  - Essen ist im Studio nicht gestattet.
+
 ### Anmerkungen zu Teil 2:
   - Die oben genannten Regeln wurden ohne Begründungen angegeben, um die
   Übersichtlichkeit zu gewährleisten. Falls dir der Sinn hinter einigen Regeln
