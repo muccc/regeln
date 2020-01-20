@@ -115,6 +115,8 @@ der folgenden Regelungen:
   Zustand zu hinterlassen. Faustregel: Hinterlasse den Club in einem besseren
   Zustand, als du ihn vorgefunden hast.
 
+  - Innerhalb der Clubräume ist Rauchen nur in der Lounge gestattet.
+
 ### Hauptraum:
 
   - Achte nach 22 Uhr auf eine nachbarschaftsverträgliche Lautstärke.
