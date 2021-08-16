@@ -197,9 +197,11 @@ die Plenen selbst.
   einberufen werden.
   - Plenumspunkte sollen immer mind. 72h vor Beginn des Plenums auf der 
   Plenumswikiseite eingetragen sein.
-  - Abstimmvorschläge (nicht im Wortlaut, sondern im Topic) muessen immer
-  mind. 72h vor Beginn des Plenums auf der Plenumswikiseite eingetragen sein.
-
+  - Abstimmvorschläge (nach dem Muster "eine Abstimmung darüber wie mit 
+  xyz verfahren werden muss") müssen immer mind. 72h vor Beginn des Plenums 
+  auf der Plenumswikiseite eingetragen sein. Der konkrete Wortlaut der 
+  Abstimmvorschläge kann im Plenum erarbeitet werden.
+  
 ### Anmerkungen zu Teil 4:
   - Dieser Teil befindet sich in einer sehr frühen Entwurfsfassung und sollte
   in den kommenden Monaten stetig erweitert werden.
