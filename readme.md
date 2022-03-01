@@ -79,7 +79,7 @@ verständlich werden, liefern wir hier Interpretationshilfen:
     - "All creatures" bezieht sich unserer Meinung nach auf die Divergenz in den
     in der Hackerethik genannten "üblichen Kriteren": *Beurteile einen Hacker
     nach dem, was er tut, und nicht nach üblichen Kriterien wie Aussehen, Alter,
-    Rasse, Geschlecht oder gesellschaftlicher Stellung.* Das schließt explizit
+    Abstammung, Geschlecht oder gesellschaftlicher Stellung.* Das schließt explizit
     nicht mit ein: mangelnde Hygiene, unangebrachte soziale Umgangsformen, 
     Belästigung und ähnliches.
 
