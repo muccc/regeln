@@ -32,7 +32,7 @@ verständlich werden, liefern wir hier Interpretationshilfen:
     zu machen.
 
     - Der private Bereich anderer ist ein Tabu, solange du nicht eingeladen 
-    wurdest, an diesem teilzunehmen. Körperliche und verbale Eingriffe in die 
+    wurdest, an diesem teilzunehmen. In Bezug auf Berührungen gilt nur ja heißt ja. Nie unaufgefordert. Körperliche und verbale Eingriffe in die 
     Privatsphäre sind alles andere als "excellent". Bitte beachte auch, dass
     die Privatsphäre anderer einen größeren Radius haben kann als deine, da es
     jedem selbst zusteht, seine Privatsphäre zu definieren. Das heisst im
