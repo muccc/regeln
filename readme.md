@@ -1,3 +1,9 @@
+Repo ist Archiviert = Diskussion findetr auch unserem Gitlab statt
+
+https://gitlab.muc.ccc.de/muCCC/regeln
+
+
+
 # Verhaltensregeln im CCC München
 
 ## Vorwort
