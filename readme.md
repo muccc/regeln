@@ -1,6 +1,6 @@
-Repo ist Archiviert = Diskussion findetr auch unserem Gitlab statt
+Repo ist Archiviert = Diskussion findetr auch unserem <del>Gitlab</del> Gitea statt
 
-https://gitlab.muc.ccc.de/muCCC/regeln
+https://gitea.muc.ccc.de/muCCC/regeln
 
 
 
